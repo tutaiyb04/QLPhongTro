@@ -9,7 +9,7 @@ namespace QuanLyPhongTro
 {
     internal class Connection
     {
-        private static string connectionString = @"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=E:\BaiTapLonLTNET\QuanLyPhongTro\QuanLyPhongTro\QLPhongTro.mdf;Integrated Security=True";
+        private static string connectionString = @"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=E:\BaiTapLonLTNET\QLPhongTro\QuanLyPhongTro\QuanLyPhongTro\QLPhongTro.mdf;Integrated Security=True";
 
         public static SqlConnection GetConnection()
         {

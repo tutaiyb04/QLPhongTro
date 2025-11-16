@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\BaiTapLonLTNET\\QuanLyPhongTro\\QuanLyPhongTro\\QuanLyPhongTro.csproj": {}
+    "E:\\BaiTapLonLTNET\\QLPhongTro\\QuanLyPhongTro\\QuanLyPhongTro\\QuanLyPhongTro.csproj": {}
   },
   "projects": {
-    "E:\\BaiTapLonLTNET\\QuanLyPhongTro\\QuanLyPhongTro\\QuanLyPhongTro.csproj": {
+    "E:\\BaiTapLonLTNET\\QLPhongTro\\QuanLyPhongTro\\QuanLyPhongTro\\QuanLyPhongTro.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\BaiTapLonLTNET\\QuanLyPhongTro\\QuanLyPhongTro\\QuanLyPhongTro.csproj",
+        "projectUniqueName": "E:\\BaiTapLonLTNET\\QLPhongTro\\QuanLyPhongTro\\QuanLyPhongTro\\QuanLyPhongTro.csproj",
         "projectName": "QuanLyPhongTro",
-        "projectPath": "E:\\BaiTapLonLTNET\\QuanLyPhongTro\\QuanLyPhongTro\\QuanLyPhongTro.csproj",
+        "projectPath": "E:\\BaiTapLonLTNET\\QLPhongTro\\QuanLyPhongTro\\QuanLyPhongTro\\QuanLyPhongTro.csproj",
         "packagesPath": "C:\\Users\\FPT SHOP\\.nuget\\packages\\",
-        "outputPath": "E:\\BaiTapLonLTNET\\QuanLyPhongTro\\QuanLyPhongTro\\obj\\",
+        "outputPath": "E:\\BaiTapLonLTNET\\QLPhongTro\\QuanLyPhongTro\\QuanLyPhongTro\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

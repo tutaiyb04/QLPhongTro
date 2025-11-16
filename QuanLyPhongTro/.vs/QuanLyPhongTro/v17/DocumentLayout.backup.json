@@ -1,18 +1,32 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\BaiTapLonLTNET\\QuanLyPhongTro\\",
+  "WorkspaceRootPath": "E:\\BaiTapLonLTNET\\QLPhongTro\\QuanLyPhongTro\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FA0A62ED-E0B2-4BB3-93FE-8F49D4E97E48}|QuanLyPhongTro\\QuanLyPhongTro.csproj|e:\\baitaplonltnet\\quanlyphongtro\\quanlyphongtro\\uc_taikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FA0A62ED-E0B2-4BB3-93FE-8F49D4E97E48}|QuanLyPhongTro\\QuanLyPhongTro.csproj|solutionrelative:quanlyphongtro\\uc_taikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FA0A62ED-E0B2-4BB3-93FE-8F49D4E97E48}|QuanLyPhongTro\\QuanLyPhongTro.csproj|e:\\baitaplonltnet\\qlphongtro\\quanlyphongtro\\quanlyphongtro\\connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA0A62ED-E0B2-4BB3-93FE-8F49D4E97E48}|QuanLyPhongTro\\QuanLyPhongTro.csproj|solutionrelative:quanlyphongtro\\connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FA0A62ED-E0B2-4BB3-93FE-8F49D4E97E48}|QuanLyPhongTro\\QuanLyPhongTro.csproj|e:\\baitaplonltnet\\quanlyphongtro\\quanlyphongtro\\uc_taikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{FA0A62ED-E0B2-4BB3-93FE-8F49D4E97E48}|QuanLyPhongTro\\QuanLyPhongTro.csproj|e:\\baitaplonltnet\\qlphongtro\\quanlyphongtro\\quanlyphongtro\\modify.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA0A62ED-E0B2-4BB3-93FE-8F49D4E97E48}|QuanLyPhongTro\\QuanLyPhongTro.csproj|solutionrelative:quanlyphongtro\\modify.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA0A62ED-E0B2-4BB3-93FE-8F49D4E97E48}|QuanLyPhongTro\\QuanLyPhongTro.csproj|e:\\baitaplonltnet\\qlphongtro\\quanlyphongtro\\quanlyphongtro\\taikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA0A62ED-E0B2-4BB3-93FE-8F49D4E97E48}|QuanLyPhongTro\\QuanLyPhongTro.csproj|solutionrelative:quanlyphongtro\\taikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Public\\Desktop\\QuanLyPhongTro.runtimeconfig.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA0A62ED-E0B2-4BB3-93FE-8F49D4E97E48}|QuanLyPhongTro\\QuanLyPhongTro.csproj|E:\\BaiTapLonLTNET\\QLPhongTro\\QuanLyPhongTro\\quanlyphongtro\\uc_taikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{FA0A62ED-E0B2-4BB3-93FE-8F49D4E97E48}|QuanLyPhongTro\\QuanLyPhongTro.csproj|solutionrelative:quanlyphongtro\\uc_taikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FA0A62ED-E0B2-4BB3-93FE-8F49D4E97E48}|QuanLyPhongTro\\QuanLyPhongTro.csproj|e:\\baitaplonltnet\\quanlyphongtro\\quanlyphongtro\\modify.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FA0A62ED-E0B2-4BB3-93FE-8F49D4E97E48}|QuanLyPhongTro\\QuanLyPhongTro.csproj|solutionrelative:quanlyphongtro\\modify.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FA0A62ED-E0B2-4BB3-93FE-8F49D4E97E48}|QuanLyPhongTro\\QuanLyPhongTro.csproj|e:\\baitaplonltnet\\qlphongtro\\quanlyphongtro\\quanlyphongtro\\uc_taikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA0A62ED-E0B2-4BB3-93FE-8F49D4E97E48}|QuanLyPhongTro\\QuanLyPhongTro.csproj|solutionrelative:quanlyphongtro\\uc_taikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/E__BAITAPLONLTNET_QUANLYPHONGTRO_QUANLYPHONGTRO_QLPHONGTRO.MDF/True/SqlTable/dbo.TaiKhoan.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,53 +36,92 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Connection.cs",
+              "DocumentMoniker": "E:\\BaiTapLonLTNET\\QLPhongTro\\QuanLyPhongTro\\QuanLyPhongTro\\Connection.cs",
+              "RelativeDocumentMoniker": "QuanLyPhongTro\\Connection.cs",
+              "ToolTip": "E:\\BaiTapLonLTNET\\QLPhongTro\\QuanLyPhongTro\\QuanLyPhongTro\\Connection.cs",
+              "RelativeToolTip": "QuanLyPhongTro\\Connection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAADJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T20:33:15.398Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "TaiKhoan.cs",
+              "DocumentMoniker": "E:\\BaiTapLonLTNET\\QLPhongTro\\QuanLyPhongTro\\QuanLyPhongTro\\TaiKhoan.cs",
+              "RelativeDocumentMoniker": "QuanLyPhongTro\\TaiKhoan.cs",
+              "ToolTip": "E:\\BaiTapLonLTNET\\QLPhongTro\\QuanLyPhongTro\\QuanLyPhongTro\\TaiKhoan.cs",
+              "RelativeToolTip": "QuanLyPhongTro\\TaiKhoan.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T20:32:37.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "QuanLyPhongTro.runtimeconfig.json",
+              "DocumentMoniker": "C:\\Users\\Public\\Desktop\\QuanLyPhongTro.runtimeconfig.json",
+              "ToolTip": "C:\\Users\\Public\\Desktop\\QuanLyPhongTro.runtimeconfig.json",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-16T19:49:22.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "dbo.TaiKhoan.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/E__BAITAPLONLTNET_QUANLYPHONGTRO_QUANLYPHONGTRO_QLPHONGTRO.MDF/True/SqlTable/dbo.TaiKhoan.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/E__BAITAPLONLTNET_QUANLYPHONGTRO_QUANLYPHONGTRO_QLPHONGTRO.MDF/True/SqlTable/dbo.TaiKhoan.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-11-16T17:20:23.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Modify.cs",
-              "DocumentMoniker": "E:\\BaiTapLonLTNET\\QuanLyPhongTro\\QuanLyPhongTro\\Modify.cs",
+              "DocumentMoniker": "E:\\BaiTapLonLTNET\\QLPhongTro\\QuanLyPhongTro\\QuanLyPhongTro\\Modify.cs",
               "RelativeDocumentMoniker": "QuanLyPhongTro\\Modify.cs",
-              "ToolTip": "E:\\BaiTapLonLTNET\\QuanLyPhongTro\\QuanLyPhongTro\\Modify.cs",
+              "ToolTip": "E:\\BaiTapLonLTNET\\QLPhongTro\\QuanLyPhongTro\\QuanLyPhongTro\\Modify.cs",
               "RelativeToolTip": "QuanLyPhongTro\\Modify.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAADUAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-16T15:25:00.397Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "UC_TaiKhoan.cs",
-              "DocumentMoniker": "E:\\BaiTapLonLTNET\\QuanLyPhongTro\\QuanLyPhongTro\\UC_TaiKhoan.cs",
+              "DocumentMoniker": "E:\\BaiTapLonLTNET\\QLPhongTro\\QuanLyPhongTro\\QuanLyPhongTro\\UC_TaiKhoan.cs",
               "RelativeDocumentMoniker": "QuanLyPhongTro\\UC_TaiKhoan.cs",
-              "ToolTip": "E:\\BaiTapLonLTNET\\QuanLyPhongTro\\QuanLyPhongTro\\UC_TaiKhoan.cs*",
-              "RelativeToolTip": "QuanLyPhongTro\\UC_TaiKhoan.cs*",
-              "ViewState": "AgIAAOkAAAAAAAAAAAAkwAEBAAABAAAAAAAAAA==",
+              "ToolTip": "E:\\BaiTapLonLTNET\\QLPhongTro\\QuanLyPhongTro\\QuanLyPhongTro\\UC_TaiKhoan.cs",
+              "RelativeToolTip": "QuanLyPhongTro\\UC_TaiKhoan.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAAACAAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-16T15:16:47.909Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "UC_TaiKhoan.cs [Design]",
-              "DocumentMoniker": "E:\\BaiTapLonLTNET\\QuanLyPhongTro\\QuanLyPhongTro\\UC_TaiKhoan.cs",
+              "DocumentMoniker": "E:\\BaiTapLonLTNET\\QLPhongTro\\QuanLyPhongTro\\QuanLyPhongTro\\UC_TaiKhoan.cs",
               "RelativeDocumentMoniker": "QuanLyPhongTro\\UC_TaiKhoan.cs",
-              "ToolTip": "E:\\BaiTapLonLTNET\\QuanLyPhongTro\\QuanLyPhongTro\\UC_TaiKhoan.cs [Design]*",
-              "RelativeToolTip": "QuanLyPhongTro\\UC_TaiKhoan.cs [Design]*",
+              "ToolTip": "E:\\BaiTapLonLTNET\\QLPhongTro\\QuanLyPhongTro\\QuanLyPhongTro\\UC_TaiKhoan.cs [Design]",
+              "RelativeToolTip": "QuanLyPhongTro\\UC_TaiKhoan.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-16T15:16:43.336Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-11-16T15:16:43.336Z"
             }
           ]
         }
